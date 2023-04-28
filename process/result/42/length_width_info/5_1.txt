@@ -1,0 +1,4 @@
+pixel_length:432
+pixel_width:10.54
+length:425.22mm
+width:1.1mm
